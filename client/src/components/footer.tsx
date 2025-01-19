@@ -59,7 +59,7 @@ function Footer() {
                             setDoubleClickTimes(doubleClickTimes + 1)
                         }
                     }}>
-                        © 2025 Powered by <a className='hover:underline' href="https://github.com/ffy-y" target="_blank">Rin</a>
+                        © 2025 Powered by <a className='hover:underline' href="https://github.com/ffy-y" target="_blank">yE</a>
                     </span>
                     {config.get<boolean>('rss') && <>
                         <Spliter />
