@@ -115,7 +115,7 @@ S3_SECRET_ACCESS_KEY=<你的S3SecretAccessKey>
 ```ini
 NAME=Xeu # 昵称，显示在左上角
 DESCRIPTION=杂食动物 # 个人描述，显示在左上角昵称下方
-AVATAR=https://avatars.githubusercontent.com/u/36541432 # 头像地址，显示在左上角
+AVATAR=https://bolg.fengfayi.cn/logo2.png # 头像地址，显示在左上角
 API_URL=https://rin.xeu.life # 服务端域名，可以先使用默认值查看效果，后续部署服务端后再修改
 PAGE_SIZE=5 # 默认分页大小，推荐 5
 SKIP_DEPENDENCY_INSTALL=true
